@@ -1,6 +1,6 @@
 // _worker.src.js
 import { connect } from "cloudflare:sockets";
-let password = 'auto';
+let password = 'jianxianapp';
 let proxyIP = 'cdn-all.xn--b6gac.eu.org';
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
